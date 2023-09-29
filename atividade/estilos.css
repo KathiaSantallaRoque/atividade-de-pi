@@ -1,0 +1,36 @@
+
+.div-a {
+    background-color: #FFC0CB; 
+    width: 500px;
+    height: 500px;
+}
+
+
+.div-b {
+    background-color: #87CEEB; 
+    height: 50%;
+    width: 50%;
+}
+
+
+.paragrafo-c {
+    color: #FFFFFF; 
+    background-color: #FF4500; 
+    font-size: 30px;
+    font-family: 'Courier New', monospace; 
+    font-weight: bold;
+}
+
+
+.div-d {
+    background-color: #8A2BE2;
+    width: 50%;
+    height: 50vh;
+}
+
+
+.div-e {
+    background-color: #FFD700;
+    width: 75vw;
+    height: 50%;
+}
